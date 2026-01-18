@@ -51,3 +51,11 @@
 // }else if(number = 0){
 //     console.log(number = 10);
 // }
+
+// 4-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// katta = Math.max(a, b);
+// console.log(katta);
