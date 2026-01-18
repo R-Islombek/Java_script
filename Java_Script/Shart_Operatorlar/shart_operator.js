@@ -39,3 +39,15 @@
 // }
 
 // console.log("Musbat sonlar=",musbat, "manfiy sonlar",manfiy);
+
+// 3-Masala;
+
+// let number = prompt("a sonini kiriting");
+
+// if (number > 0) {
+//     console.log(number + 1);
+// }else if(number < 0 ){
+//     console.log(number - 1);
+// }else if(number = 0){
+//     console.log(number = 10);
+// }
